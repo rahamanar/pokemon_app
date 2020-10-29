@@ -1,6 +1,12 @@
 # pokeman_app
 
-A new Flutter project.
+Pokemon App is simple flutter app that shows the images and names of the pokemons and thier details in next screen.
+
+# Screenshots 
+
+https://github.com/rahamanar/pokemon_app/blob/main/Assets/pokemonhome.jpeg
+
+![alt text](https://github.com/rahamanar/pokemon_app/blob/main/Assets/pokemonhome.jpeg?raw=true)
 
 ## Getting Started
 
