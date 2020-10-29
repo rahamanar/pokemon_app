@@ -8,6 +8,8 @@ Pokemon App is simple flutter app that shows the images and names of the pokemon
 
 <br/><img src="https://github.com/rahamanar/pokemon_app/blob/main/Assets/pokemondetails.jpeg" width="205" height="380">
 
+<img src="https://github.com/rahamanar/pokemon_app/blob/main/Assets/pokemondetails.jpeg" height="500em" style="max-width:100%;">
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
