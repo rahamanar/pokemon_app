@@ -13,11 +13,11 @@ Pokemon App is simple flutter app that shows the images and names of the pokemon
 
 
 <p>
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/rahamanar/pokemon_app/blob/main/Assets/pokemonhome.jpeg">
-  <img src="https://github.com/rahamanar/pokemon_app/blob/main/Assets/pokemonhome.jpeg" height="500em" style="max-width:100%;">
+  <a target="_blank" rel="noopener noreferrer" href="/rahamanar/pokemon_app/blob/main/Assets/pokemonhome.jpeg">
+  <img src="/rahamanar/pokemon_app/blob/main/Assets/pokemonhome.jpeg" height="500em" style="max-width:100%;">
   </a>
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/rahamanar/pokemon_app/blob/main/Assets/pokemondetails.jpeg">
-    <img src="https://github.com/rahamanar/pokemon_app/blob/main/Assets/pokemondetails.jpeg" height="500em" style="max-width:100%;">
+  <a target="_blank" rel="noopener noreferrer" href="/rahamanar/pokemon_app/blob/main/Assets/pokemondetails.jpeg">
+    <img src="/rahamanar/pokemon_app/blob/main/Assets/pokemondetails.jpeg" height="500em" style="max-width:100%;">
   </a>
 </p>
 
